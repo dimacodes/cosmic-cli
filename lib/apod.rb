@@ -14,6 +14,4 @@ class Apod
   def self.most_recent
     @@all.last
   end
-
-
 end
