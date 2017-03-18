@@ -3,7 +3,7 @@ require_relative '../bin/environment.rb'
 class GetApod
 
   BASE_URL = 'https://api.nasa.gov/planetary/apod?api_key='
-  API_KEY = 'DEMO_KEY'
+  API_KEY = 'b4wtg7hdsxk2Xamrx9gxARdk6VNm3Pc2aTpUhsv4'
 
   def self.new_data(date: nil)
     @date = date
