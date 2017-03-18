@@ -17,3 +17,5 @@ To run:
 
     $ cd cosmic-cli/
     $ ./bin/cosmic
+
+Dedicated to Carl Sagan.
