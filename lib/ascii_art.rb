@@ -17,3 +17,7 @@ class AsciiArt
     ascii.gsub(/\n/, "\n#{"\t" * indent_depth}")
   end
 end
+
+# @stefania11
+# @drewprice
+# https://github.com/stefania11/Cosmos-Ascii/blob/master/lib/concerns/ascii_art_helper.rb
