@@ -4,7 +4,7 @@
 - Explanation of image
 - Image in browser
 - Search by date
-- Set image as wallpaper
+- Set image as desktop background
 - Visit NASA's website
 
 
