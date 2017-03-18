@@ -1,6 +1,6 @@
 # Cosmic CLI
 
-- Acquires image from NASA’s [APOD API](https://api.nasa.gov/api.html#apod)
+- Acquires data from NASA’s [APOD API](https://api.nasa.gov/api.html#apod)
 - Displays image in ascii format
 - Provides option to read explanation of image
 - Displays image in browser
