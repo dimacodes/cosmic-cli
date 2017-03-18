@@ -1,4 +1,4 @@
-# Cosmic
+# Cosmic CLI
 
 - Acquires image from NASA’s APOD API
 - Displays image in ascii format
