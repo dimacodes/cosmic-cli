@@ -6,7 +6,7 @@
 - Displays image in browser
 - Includes search by date feature
 - Sets image as desktop background
-- Visits NASA's website
+- Visits NASA's APOD website
 
 
 To install:
