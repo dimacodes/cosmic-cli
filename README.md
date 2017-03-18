@@ -6,7 +6,7 @@
 - Displays image in browser
 - Includes search by date feature
 - Sets image as desktop background
-- Visits [NASA's APOD website](https://apod.nasa.gov/apod)
+- Visits NASA's[Astronomy Picture of the Day](https://apod.nasa.gov/apod)
 
 
 ![](./screenshot/cosmic_cli_sample.png)
