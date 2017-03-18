@@ -8,9 +8,11 @@
 - Sets image as desktop background
 - Visits NASA's APOD website
 
-![](./screenshot/cosmic_browser_view.png)
 
 ![](./screenshot/cosmic_cli_sample.png)
+
+![](./screenshot/cosmic_browser_view.png)
+
 
 To install:
 
