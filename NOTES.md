@@ -2,6 +2,5 @@ TODO:
 
 1. Improve functionality to include:
 
-- cron: daily, set desktop background automatically 
-
+- Implement cron job feature to auto set desktop background daily
 2. Bundle gem, publish to RubyGems
