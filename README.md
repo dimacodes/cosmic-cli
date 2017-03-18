@@ -10,6 +10,8 @@
 
 ![](./screenshot/cosmic_cli_sample.png)
 
+![](./screenshot/cosmic_browser_view.png)
+
 
 To install:
 
