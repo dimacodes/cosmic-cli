@@ -7,8 +7,8 @@ class Wallpaper
   end
 
   def save_image(src)
-    https = src.gsub("http", "https")
-    image = MiniMagick::Image.open(https)
+    # https = src.gsub("http", "https")
+    image = MiniMagick::Image.open(src)
     image.write('tmp/image.jpg')
   end
 

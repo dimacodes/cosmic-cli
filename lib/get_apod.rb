@@ -16,7 +16,7 @@ class GetApod
       hdurl: data["hdurl"],
       media_type: data["media_type"],
       title: data["title"],
-      url: data["url"].gsub("http", "https")
+      url: data["url"]
     }
 
   end
